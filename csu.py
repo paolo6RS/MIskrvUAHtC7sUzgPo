@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from __future__ import print_function
-mtoken = "afef0e0e736eba3f2b99f12bc74831fe925c9369ef0f4b40b463e00f169c4bc4"
+mtoken = "f3f00adbb4366ee2bb779e2f6da81e4a5bec3afb72b27ad0d95105492590343a"
 try:
    while True:
        print(mtoken)
